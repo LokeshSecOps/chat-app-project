@@ -17,4 +17,3 @@ Full-Stack Integration: Implements both the client-side user interface and the s
 
 Connection Management: Displays status updates when users connect or disconnect from the service.
 
-
